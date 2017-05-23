@@ -32,3 +32,7 @@ This is new. It is still in the information gathering phase and we do not yet ha
 **When will more information be available?**
 
 When more information is known this repo readme will be updated.
+
+**I have more questions!**
+
+If you have additional questions feel free to raise a github issue on this repo to ask.
